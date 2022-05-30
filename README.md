@@ -101,5 +101,3 @@ You can try the apk with my debug build: https://github.com/senzhk/ADBKeyBoard/r
 KeyEvent Code Ref: http://developer.android.com/reference/android/view/KeyEvent.html
 
 Editor Action Code Ref: http://developer.android.com/reference/android/view/inputmethod/EditorInfo.html
-
-
